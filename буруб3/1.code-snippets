@@ -1,0 +1,12 @@
+
+
+{
+	"Print to console": {
+
+	"prefix": "div",
+	"body": [
+      "<div class=button>привет</div>"
+	],
+		"description": "как ты"
+	}
+}
